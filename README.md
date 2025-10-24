@@ -1,2 +1,2 @@
 # testing
-- [X] this is a test
+[X] this is a test
